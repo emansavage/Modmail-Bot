@@ -1,0 +1,16 @@
+{
+    "token":"bot token",
+
+    "ticketCategoryID":"The category where the bot make the tickets",
+
+    "modmailServerId":"the server it in",
+
+    "thumb":"The tumbnail link of the embed",
+
+    "modmailLogChannelId":"the log channle",
+
+    "mainServerId":"The main server"
+
+
+
+}
